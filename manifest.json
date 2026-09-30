@@ -1,0 +1,44 @@
+{
+  "name": "Nailong",
+  "spriteVersionNumber": 2,
+  "canonicalAsset": "assets/nailong-v2.png",
+  "compatibilityAsset": "assets/nailong-v1.png",
+  "files": [
+    {
+      "path": "assets/nailong-v1.png",
+      "sha256": "981c2e414cbe545621f7f091199fb95e89ee813bb22da9943bd512c210759eab",
+      "bytes": 1268154,
+      "width": 1536,
+      "height": 1872
+    },
+    {
+      "path": "assets/nailong-v2.png",
+      "sha256": "ea3a2bf8e1336cdab13eb0560ff96fbda1a48d0f7083ef5a50d4b733feeeabf6",
+      "bytes": 1594460,
+      "width": 1536,
+      "height": 2288
+    },
+    {
+      "path": "previews/all-states.gif",
+      "sha256": "a088c045144c3d6493ff229f83fb3b9b8fcf85a6443709f026a41d278ce9743d",
+      "bytes": 348291
+    },
+    {
+      "path": "previews/contact-sheet.png",
+      "sha256": "a4fbe18dfd6144f4ad0fbb7af7eca9be8c2d41909d4aba75335b7904bb6c70e7",
+      "bytes": 449770,
+      "width": 768,
+      "height": 1386
+    },
+    {
+      "path": "previews/laugh.gif",
+      "sha256": "36350a6277ab1f197f9e6a7c219c0e2527cafcfe36d9fc6ac71f7aa17c0d09ad",
+      "bytes": 37346
+    },
+    {
+      "path": "previews/look-loop.gif",
+      "sha256": "eecea9d14b043d25898cc49851ddbb79b3339425e49a4ad46cce2093c3b6a9a0",
+      "bytes": 93156
+    }
+  ]
+}
